@@ -5,7 +5,7 @@ _No description provided._
 ## Configuration
 
 - **OS:** windows (win11)
-- **Default browser:** firefox
+- **Default browser:** chrome
 - **Test cases:** 6
 
 ## Layout
